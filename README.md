@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Duggasani Bhanuprakash Reddy 👋
 
-<!--
-**duggasanibhanuprakashreddy-cmyk/duggasanibhanuprakashreddy-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Data Science Student at REVA University
 
-Here are some ideas to get you started:
+🐍 Learning Python  
+📊 Exploring Data Science & Data Analysis  
+🗄️ Learning SQL  
+🧠 Learning Data Structures & Algorithms  
+🔧 Exploring IoT  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a 3rd-semester B.Tech student in Artificial Intelligence and Data Science, currently building my programming and problem-solving foundations.
+
+I enjoy learning through practical projects and exploring how technology can be used to solve real-world problems.
+
+My current goal is to become a strong Python Developer while continuing to explore Data Science and IoT.
+
+## 🛠️ Skills
+
+- Python
+- C
+- SQL
+- Data Science
+- Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Data Structures & Algorithms
+- Git
+- GitHub
+- IoT
+
+## 📌 Projects
+
+### 🪖 Smart Helmet System
+Innovation project focused on improving helmet compliance among two-wheeler riders.
+
+### 🚗 Bluetooth-Controlled RC Car
+Academic IoT project involving Bluetooth-based wireless control of an RC car.
+
+### 🎨 Menu-Driven 2D Graphics Editor
+C-based practice project for creating and manipulating basic 2D graphics through a menu-driven interface.
+
+### 📊 Python Data Projects
+Learning projects focused on Python, data analysis, and visualization.
+
+## 📜 Certifications
+
+- Python 101 for Data Science — IBM
+- Data Analysis with Python — IBM
+- Data Visualization with Python — IBM
+- Ignite Full — Wadhwani Foundation
+
+## 🎯 Current Focus
+
+- Improving Python
+- Learning DSA
+- Improving SQL
+- Building practical Python projects
+- Exploring Data Science and IoT
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/duggasani-bhanuprakash-reddy-06a599386)
+- [Portfolio](https://d-bhanuprakash-reddy-portfolio.vercel.app/)
+- [GitHub](https://github.com/duggasanibhanuprakashreddy-cmyk)
+
+---
+
+⭐ Thanks for visiting my profile!
