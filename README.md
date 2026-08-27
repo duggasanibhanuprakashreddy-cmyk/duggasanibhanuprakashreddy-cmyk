@@ -1,6 +1,7 @@
 # Hi, I'm Duggasani Bhanuprakash Reddy 👋
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bhanuprakash%20Reddy&fontSize=45&fontAlignY=35&desc=B.Tech%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=180&amp;section=header&amp;text=Bhanuprakash%20Reddy&amp;fontSize=45&amp;fontAlignY=35&amp;desc=B.Tech%20AI%20%26%20Data%20Science%20Student&amp;descAlignY=55&amp;descAlign=50"/>
 </p>
 
 🎓 B.Tech Artificial Intelligence & Data Science Student at REVA University
@@ -41,24 +42,30 @@ My current goal is to become a strong Python Developer while continuing to explo
 ### Other
 - 🧠 Data Structures & Algorithms
 - 🔌 IoT
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duggasanibhanuprakashreddy-cmyk&amp;show_icons=true&amp;theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggasanibhanuprakashreddy-cmyk&amp;layout=compact&amp;theme=tokyonight" height="180"/>
 </p>
+
 ## 📌 Projects
 
 ### 🪖 Smart Helmet System
+
 Innovation project focused on improving helmet compliance among two-wheeler riders.
 
 ### 🚗 Bluetooth-Controlled RC Car
+
 Academic IoT project involving Bluetooth-based wireless control of an RC car.
 
 ### 🎨 Menu-Driven 2D Graphics Editor
+
 C-based practice project for creating and manipulating basic 2D graphics through a menu-driven interface.
 
 ### 📊 Python Data Projects
+
 Learning projects focused on Python, data analysis, and visualization.
 
 ## 📜 Certifications
@@ -81,15 +88,16 @@ Learning projects focused on Python, data analysis, and visualization.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/duggasani-bhanuprakash-reddy-06a599386">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&amp;logo=linkedin"/>
   </a>
   <a href="https://d-bhanuprakash-reddy-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&amp;logo=vercel"/>
   </a>
   <a href="https://github.com/duggasanibhanuprakashreddy-cmyk">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&amp;logo=github"/>
   </a>
 </p>
+
 ---
 
 ⭐ Thanks for visiting my profile!
