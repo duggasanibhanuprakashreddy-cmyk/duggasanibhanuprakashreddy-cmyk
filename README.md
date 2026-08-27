@@ -41,11 +41,11 @@ My current goal is to become a strong Python Developer while continuing to explo
 ### Other
 - 🧠 Data Structures & Algorithms
 - 🔌 IoT
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duggasanibhanuprakashreddy-cmyk&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggasanibhanuprakashreddy-cmyk&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=duggasanibhanuprakashreddy-cmyk&amp;show_icons=true&amp;theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggasanibhanuprakashreddy-cmyk&amp;layout=compact&amp;theme=tokyonight" height="180"/>
 </p>
 ## 📌 Projects
 
