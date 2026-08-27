@@ -1,4 +1,7 @@
 # Hi, I'm Duggasani Bhanuprakash Reddy 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bhanuprakash%20Reddy&fontSize=45&fontAlignY=35&desc=B.Tech%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descAlign=50"/>
+</p>
 
 🎓 B.Tech Artificial Intelligence & Data Science Student at REVA University
 
@@ -16,21 +19,34 @@ I enjoy learning through practical projects and exploring how technology can be 
 
 My current goal is to become a strong Python Developer while continuing to explore Data Science and IoT.
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Python
-- C
-- SQL
-- Data Science
-- Data Analysis
-- NumPy
-- Pandas
-- Matplotlib
-- Data Structures & Algorithms
-- Git
-- GitHub
-- IoT
+### Programming
+- 🐍 Python
+- 💻 C
 
+### Data Science
+- 📊 NumPy
+- 🐼 Pandas
+- 📈 Matplotlib
+
+### Database
+- 🗄️ SQL
+
+### Tools
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
+
+### Other
+- 🧠 Data Structures & Algorithms
+- 🔌 IoT
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duggasanibhanuprakashreddy-cmyk&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggasanibhanuprakashreddy-cmyk&layout=compact&theme=tokyonight" height="180"/>
+</p>
 ## 📌 Projects
 
 ### 🪖 Smart Helmet System
@@ -52,20 +68,28 @@ Learning projects focused on Python, data analysis, and visualization.
 - Data Visualization with Python — IBM
 - Ignite Full — Wadhwani Foundation
 
-## 🎯 Current Focus
+## 📚 Currently Learning
 
-- Improving Python
-- Learning DSA
-- Improving SQL
-- Building practical Python projects
-- Exploring Data Science and IoT
+- 🐍 Python
+- 🧠 Data Structures & Algorithms
+- 🗄️ SQL
+- 📊 Data Science & Data Analysis
+- 🤖 Machine Learning
+- 🔌 IoT
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/duggasani-bhanuprakash-reddy-06a599386)
-- [Portfolio](https://d-bhanuprakash-reddy-portfolio.vercel.app/)
-- [GitHub](https://github.com/duggasanibhanuprakashreddy-cmyk)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/duggasani-bhanuprakash-reddy-06a599386">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://d-bhanuprakash-reddy-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://github.com/duggasanibhanuprakashreddy-cmyk">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
