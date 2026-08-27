@@ -80,7 +80,7 @@ Learning projects focused on Python, data analysis, and visualization.
 
 ## 🌐 Connect With Me
 
-* [LinkedIn](https://www.linkedin.com/in/duggasani-bhanuprakash-reddy-06a599386)
+* [LinkedIn](https://www.linkedin.com/in/duggasanibhanuprakashreddy)
 * [Portfolio](https://d-bhanuprakash-reddy-portfolio.vercel.app/)
 * [GitHub](https://github.com/duggasanibhanuprakashreddy-cmyk)
 
