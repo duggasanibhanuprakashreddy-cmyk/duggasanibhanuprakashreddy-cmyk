@@ -1,16 +1,12 @@
 # Hi, I'm Duggasani Bhanuprakash Reddy 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=180&amp;section=header&amp;text=Bhanuprakash%20Reddy&amp;fontSize=45&amp;fontAlignY=35&amp;desc=B.Tech%20AI%20%26%20Data%20Science%20Student&amp;descAlignY=55&amp;descAlign=50"/>
-</p>
-
 🎓 B.Tech Artificial Intelligence & Data Science Student at REVA University
 
-🐍 Learning Python  
-📊 Exploring Data Science & Data Analysis  
-🗄️ Learning SQL  
-🧠 Learning Data Structures & Algorithms  
-🔧 Exploring IoT  
+🐍 Learning Python
+📊 Exploring Data Science & Data Analysis
+🗄️ Learning SQL
+🧠 Learning Data Structures & Algorithms
+🔧 Exploring IoT
 
 ## 🚀 About Me
 
@@ -23,32 +19,30 @@ My current goal is to become a strong Python Developer while continuing to explo
 ## 🛠️ Tech Stack
 
 ### Programming
-- 🐍 Python
-- 💻 C
+
+* 🐍 Python
+* 💻 C
 
 ### Data Science
-- 📊 NumPy
-- 🐼 Pandas
-- 📈 Matplotlib
+
+* 📊 NumPy
+* 🐼 Pandas
+* 📈 Matplotlib
 
 ### Database
-- 🗄️ SQL
+
+* 🗄️ SQL
 
 ### Tools
-- 🔧 Git
-- 🐙 GitHub
-- 💻 VS Code
+
+* 🔧 Git
+* 🐙 GitHub
+* 💻 VS Code
 
 ### Other
-- 🧠 Data Structures & Algorithms
-- 🔌 IoT
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duggasanibhanuprakashreddy-cmyk&amp;show_icons=true&amp;theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duggasanibhanuprakashreddy-cmyk&amp;layout=compact&amp;theme=tokyonight" height="180"/>
-</p>
+* 🧠 Data Structures & Algorithms
+* 🔌 IoT
 
 ## 📌 Projects
 
@@ -70,33 +64,25 @@ Learning projects focused on Python, data analysis, and visualization.
 
 ## 📜 Certifications
 
-- Python 101 for Data Science — IBM
-- Data Analysis with Python — IBM
-- Data Visualization with Python — IBM
-- Ignite Full — Wadhwani Foundation
+* Python 101 for Data Science — IBM
+* Data Analysis with Python — IBM
+* Data Visualization with Python — IBM
+* Ignite Full — Wadhwani Foundation
 
 ## 📚 Currently Learning
 
-- 🐍 Python
-- 🧠 Data Structures & Algorithms
-- 🗄️ SQL
-- 📊 Data Science & Data Analysis
-- 🤖 Machine Learning
-- 🔌 IoT
+* 🐍 Python
+* 🧠 Data Structures & Algorithms
+* 🗄️ SQL
+* 📊 Data Science & Data Analysis
+* 🤖 Machine Learning
+* 🔌 IoT
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/duggasani-bhanuprakash-reddy-06a599386">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&amp;logo=linkedin"/>
-  </a>
-  <a href="https://d-bhanuprakash-reddy-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&amp;logo=vercel"/>
-  </a>
-  <a href="https://github.com/duggasanibhanuprakashreddy-cmyk">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&amp;logo=github"/>
-  </a>
-</p>
+* [LinkedIn](https://www.linkedin.com/in/duggasani-bhanuprakash-reddy-06a599386)
+* [Portfolio](https://d-bhanuprakash-reddy-portfolio.vercel.app/)
+* [GitHub](https://github.com/duggasanibhanuprakashreddy-cmyk)
 
 ---
 
